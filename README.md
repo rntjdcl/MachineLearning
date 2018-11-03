@@ -18,4 +18,7 @@ output label들의 저장경로 : /tmp/output_labels.txt
 >>http://solarisailab.com/archives/1422
 
 ##심화 기능
+심화기능은 object_detection ssd를 활용해서 위에서 학습한 사진들로만 확인만 해보았습니다.
+지우개의 경우에는 책으로 판별을 했고, 팬의 경우에는 판별을 하지못했습니다. (지우개.jpg)
+그리고 대표적으로 주어진 사진 2개가 있었는데, 그것들은 잘 판별되는 것을 확인했습니다.(대표1.jpg,대표2.jpg)
 >>http://solarisailab.com/archives/2387
