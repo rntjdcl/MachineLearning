@@ -18,3 +18,4 @@ output label들의 저장경로 : /tmp/output_labels.txt
 >>http://solarisailab.com/archives/1422
 
 ##심화 기능
+>>http://solarisailab.com/archives/2387
